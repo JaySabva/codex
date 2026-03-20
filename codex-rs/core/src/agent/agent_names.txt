@@ -99,3 +99,5 @@ Banach
 Ramanujan
 Erdos
 Jason
+Shannon
+DaVinci
